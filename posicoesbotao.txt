@@ -1,0 +1,23 @@
+superior esquerdo
+X do Click = 320
+Y do Click = 674
+
+inferior esquerdo
+X do Click = 320
+Y do Click = 921
+
+superior direito
+ X do Click = 819
+ Y do Click = 671
+
+inferior direito
+ X do Click = 819
+ Y do Click = 920
+
+pos_sem_risezible
+x do click 133
+y do click 264
+
+inferior direito
+X do Click = 342
+Y do Click = 363
